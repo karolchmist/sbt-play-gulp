@@ -6,8 +6,8 @@ lazy val `sbt-play-gulp`: Project = (project in file("."))
     name := "sbt-play-gulp",
     scalaVersion := "2.10.6",
     sbtPlugin := true,
-    addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.5.0"),
-    addSbtPlugin("com.typesafe.sbt" % "sbt-web" % "1.3.0"),
+    addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.6.3"),
+    addSbtPlugin("com.typesafe.sbt" % "sbt-web" % "1.4.1"),
     commonSettings
   )
 

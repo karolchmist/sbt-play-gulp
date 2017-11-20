@@ -20,6 +20,7 @@ If you do not like your Play app to depend on any sbt plugin, [play-gulp-standal
 
 | Plugin version | Play version | Scala version |
 |----------------|--------------|---------------|
+| 0.2.x          | 2.6.x        | 2.12.x        |
 | 0.1.x          | 2.5.x        | 2.11.x        |
 | - 0.0.7        | 2.4.x        | 2.10.x/2.11.x |
 
